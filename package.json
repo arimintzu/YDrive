@@ -1,0 +1,21 @@
+{
+  "name": "com.tanooki.ydrive",
+  "version": "1.0.0",
+  "displayName": "All YDrive Unity Data",
+  "description": "This is a Testing Pipeline",
+  "unity": "2021.3",
+  "unityRelease": "16f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+ },
+ "keywords": [
+    "test"
+  ],
+  "author": {
+    "name": "Tanooki",
+    "email": "tanooki@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
